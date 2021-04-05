@@ -57,7 +57,8 @@
     text-align: center;
 }
 .i_a {
-    padding: 2px;
+   font-size: 12px;
+    padding: 0px;
 }
 .service {
     padding: 20px 0;
@@ -92,10 +93,10 @@
     text-align: center;
 }
 .f_blog a {
-	font-size:13px;
+	font-size:10px;
 }
 .f_blog p {
-    font-size: 13px;
+    font-size: 9px;
 }
 .c_p{
 	font-size: 10px;
@@ -105,7 +106,7 @@
     font-size: 10px;
 }
 .f_news input {
-    margin: 0 100px;
+    margin: 0 50px;
     margin-bottom: 10px;
     padding: 10px;
     border-radius: 5px;
