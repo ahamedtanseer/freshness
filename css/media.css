@@ -100,10 +100,7 @@
 }
 .c_p{
 	font-size: 10px;
-}
-.c_p2 {
-    margin: -15px 0;
-    font-size: 10px;
+	text-align: center;
 }
 .f_news input {
     margin: 0 50px;
